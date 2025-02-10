@@ -13,7 +13,7 @@
 I'm a **Full-Stack Developer** with expertise in **Spring Boot** and **React.js**, passionate about building high-performance web applications. I specialize in crafting **scalable, responsive, and feature-rich** solutions that enhance user experience and drive business success.  
 
 ## 🎓 Last Qualification
-- **Master of Computer Application (MCA)** – Completed in **2024** from **Harcourt Butler Technical University, Kanpur (HBTU)**.  
+- **Master of Computer Application (MCA)** – Completed in **2024** with **7.24 CGPA** from **Harcourt Butler Technical University, Kanpur (HBTU)**.  
   - Focused on **Java, Web Development, Databases**, and **Software Engineering**.
   - Worked with **Java, JSP, Servlets, and MySQL** for web development projects.
   - Transitioned to **Spring Framework with Spring Boot**, developing multiple projects to enhance skills in scalable and maintainable web applications.
