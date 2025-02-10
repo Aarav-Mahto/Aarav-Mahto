@@ -12,10 +12,13 @@
 
 I'm a **Full-Stack Developer** with expertise in **Spring Boot** and **React.js**, passionate about building high-performance web applications. I specialize in crafting **scalable, responsive, and feature-rich** solutions that enhance user experience and drive business success.  
 
-### 🚀 What I Do:  
-- Develop **dynamic** and **efficient** web applications  
-- Work with **Java, Spring Boot, React.js, TypeScript, and more**  
-- Manage live projects and contribute to open-source repositories  
+## 🚀 What I Do:
+- Develop dynamic and efficient web applications
+- Work with Java, Spring Boot, React.js, TypeScript, and more
+- Manage live projects and contribute to personal and client-based projects
+- Build and maintain scalable, high-performance websites
+- Continuously enhance my technical skills and explore new technologies
+ 
 
 ## 🌐 Projects - **(Currently Not Live)** – Previously hosted but not renewed.  
 - **Enquirylist** – A well-organized directory of global business contact details  
