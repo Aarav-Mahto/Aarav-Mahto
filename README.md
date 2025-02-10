@@ -12,6 +12,13 @@
 
 I'm a **Full-Stack Developer** with expertise in **Spring Boot** and **React.js**, passionate about building high-performance web applications. I specialize in crafting **scalable, responsive, and feature-rich** solutions that enhance user experience and drive business success.  
 
+## 🎓 Last Qualification
+- **Master of Computer Application (MCA)** – Completed in **2024** from **Harcourt Butler Technical University, Kanpur (HBTU)**.  
+  - Focused on **Java, Web Development, Databases**, and **Software Engineering**.
+  - Worked with **Java, JSP, Servlets, and MySQL** for web development projects.
+  - Transitioned to **Spring Framework with Spring Boot**, developing multiple projects to enhance skills in scalable and maintainable web applications.
+ 
+  
 ## 🚀 What I Do:
 - Develop dynamic and efficient web applications
 - Work with Java, Spring Boot, React.js, TypeScript, and more
@@ -37,6 +44,9 @@ I'm a **Full-Stack Developer** with expertise in **Spring Boot** and **React.js*
 - **[TharPrice.com](https://tharprice.com)** – Articles and posts about cars and motors, specifically focusing on Mahindra Thar models across different countries.  
 - **[AllMovieDownload.com](https://allmoviedownload.com)** – A platform featuring movie-related content, including ratings, box office collections, download links, upcoming movies, trending films, and web series.  
 
+## 🎓 College Time Projects  
+- **[Project Management System](https://github.com/Aarav-Mahto/Project-Management-System)** – A system to manage multiple projects, including sections like All Projects, Completed Projects, Running Projects, Assigned Projects, Pending Projects, and Suspended Projects. Developed during college while learning Java, JSP, Servlets, and MySQL.  
+- **[Content Management Tool](https://github.com/Aarav-Mahto/Content-Management-Tool)** – A tool to write and manage articles, featuring an admin dashboard for article CRUD operations, along with a public webpage displaying the latest articles. Built while learning Java, JSP, Servlets, and MySQL.
 
 ## 🔧 Tech Stack  
 **Backend:** Java, Spring Boot, JDBC Templates, MySQL, JPA, Hibernate  
