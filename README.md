@@ -17,19 +17,19 @@ I'm a **Full-Stack Developer** with expertise in **Spring Boot** and **React.js*
 - Work with **Java, Spring Boot, React.js, TypeScript, and more**  
 - Manage live projects and contribute to open-source repositories  
 
-### 🌐 Projects - **(Currently Not Live)** – Previously hosted but not renewed.  
+## 🌐 Projects - **(Currently Not Live)** – Previously hosted but not renewed.  
 - **Enquirylist** – A well-organized directory of global business contact details  
-- **StoryWebsite** – A personal blog sharing valuable health and fitness articles  
-- **IndianCareHub** – A dedicated platform for business contact details across India   
-
+- **StoryTellingSite** – A dynamic platform featuring a collection of Hindi and English stories, generating web pages dynamically for an engaging reading experience  
+- **IndianCareHub** – A dedicated platform for business contact details across India  
+- **TheGreatAsia** – A project exploring Asia's vast and diverse landscape (currently not live)
 
 ## 📂 GitHub Repositories  
-- 🔹 **[TheGreatAsia](https://github.com/Aarav-Mahto/TheGreatAsia)** – A project exploring Asia's vast and diverse landscape  
-- 🔹 **[MoralLines](https://github.com/Aarav-Mahto/MoralLines)** – A repository for my health and fitness blog  
-- 🔹 **[IndianCareHub](https://github.com/Aarav-Mahto/IndianCareHub)** – A contact directory for various businesses in India  
-- 🔹 **[EnquiryList](https://github.com/Aarav-Mahto/EnquiryList)** – A global business contact directory  
+- 🔹 **[TheGreatAsia](https://github.com/Aarav-Mahto/TheGreatAsia)** – A project exploring Asia's vast and diverse landscape.  
+- 🔹 **[StoryTellingSite](https://github.com/Aarav-Mahto/StoryTellingSite)** – A dynamic platform featuring a collection of Hindi and English stories, with web pages generated dynamically using Spring Boot for an engaging reading experience.  
+- 🔹 **[IndianCareHub](https://github.com/Aarav-Mahto/IndianCareHub)** – A dynamic directory of contact details for businesses across India, leveraging Spring Boot for seamless page generation.  
+- 🔹 **[EnquiryList](https://github.com/Aarav-Mahto/EnquiryList)** – A global business contact directory with dynamic page generation powered by Spring Boot.
 
-#### 🚀 WordPress Websites  
+## 🚀 WordPress Websites  
 - **[Morallines.com](https://morallines.com)** – A health and fitness blog covering workouts, healthcare, food safety, gym tips, medicine, and more, with 20+ pages of content.  
 - **[TharPrice.com](https://tharprice.com)** – Articles and posts about cars and motors, specifically focusing on Mahindra Thar models across different countries.  
 - **[AllMovieDownload.com](https://allmoviedownload.com)** – A platform featuring movie-related content, including ratings, box office collections, download links, upcoming movies, trending films, and web series.  
