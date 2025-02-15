@@ -10,7 +10,10 @@
 
 ## 👋 About Me  
 
-I'm a **Full-Stack Developer** with expertise in **Spring Boot**, passionate about building **high-performance web applications**. I specialize in crafting **scalable, responsive, and feature-rich** solutions that enhance user experience and drive business success, while also **exploring and implementing React.js and TypeScript** in projects.  
+I'm a **Full-Stack Developer** specializing in **Spring Boot**, experienced in building **scalable and high-performance web applications**. I have developed and deployed multiple projects with **attractive frontends, optimized backends, efficient databases, and reliable hosting (AWS/private JVM)**.  
+
+I can independently manage full-stack development or collaborate within a team. I also explore **React.js and TypeScript** to enhance my expertise in building modern web applications.  
+
 
 ## 🏆 Achievements  
 
