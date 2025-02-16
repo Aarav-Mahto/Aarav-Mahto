@@ -125,13 +125,6 @@ As I continued developing more projects, I needed reliable hosting. I initially 
 
 Over time, I built multiple websites and gained hands-on experience in **full-stack development, SEO, hosting management, and performance optimization**. However, as of now, **none of my websites are live, and I do not plan to host any in the future** (Except for some WordPress websites that I handed over to my friends). My focus has shifted towards **building scalable applications and contributing to impactful projects**.  
 
-## ⚡ What to Expect from Me 
-- 🔹 Develop dynamic and efficient web applications
-- 🔹 Work with Java, Spring Boot, React.js, TypeScript, and more
-- 🔹 Manage live projects and contribute to personal and client-based projects
-- 🔹 Build and maintain scalable, high-performance websites
-- 🔹 Continuously enhance my technical skills and explore new technologies
-
 ## 📊 GitHub Stats  
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarav-mahto&show_icons=true&locale=en&layout=compact" alt="aarav-mahto" />
