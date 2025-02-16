@@ -17,9 +17,9 @@ I can independently manage full-stack development or collaborate within a team. 
 
 ## 🏆 Achievements  
 
-- 🎯 **NIMCET 2022** – Secured **AIR 752** in the national-level MCA entrance exam.  
-- 🎓 **Chegg India Expert (CSE)** – Providing solutions in Computer Science & Engineering.  
+- 🎯 **NIMCET 2022** – Secured **AIR 752** in the national-level MCA entrance exam.    
 - ⭐ **HackerRank** – Achieved **5-star** rating in Java.
+- 🎓 **Chegg India Expert (CSE)** – Providing solutions in Computer Science & Engineering.
 
 ## 🛠 Tech Stack  
 
@@ -79,25 +79,21 @@ I can independently manage full-stack development or collaborate within a team. 
 - Covered **C, C++, Java (Swing, AWT, Applet, JSP, Servlet, JDBC, Spring Intro)**.  
 - Gained hands-on experience with **HTML, CSS, JavaScript, and Data Structures in C++**.  
 
+## 🌐 Projects & GitHub Repositories - **(Currently Not Live)**  
+### These are some projects I used to maintain, but due to the hosting expiration of my private JVM (MochaHost) on **16 Feb 2025**, I couldn't renew them.  
 
-## 🌐 Projects - **(Currently Not Live)** – Previously hosted but not renewed.  
-- **Enquirylist** – A well-organized directory of global business contact details  
-- **StoryTellingSite** – A dynamic platform featuring a collection of Hindi and English stories, generating web pages dynamically for an engaging reading experience  
-- **IndianCareHub** – A dedicated platform for business contact details across India  
-- **TheGreatAsia** – A project exploring Asia's vast and diverse landscape (currently not live)
+- 🔹 **[EnquiryList](https://github.com/Aarav-Mahto/EnquiryList)** – **(Was Live with 150+ Dynamic Pages)** A well-organized directory of global business contact details with dynamic page generation, powered by **Spring Boot, Spring JPA, Spring Security, jdbcTemplate, MySQL, Thymeleaf, HTML, CSS, JavaScript, and jQuery**.  
+- 🔹 **[IndianCareHub](https://github.com/Aarav-Mahto/IndianCareHub)** – **(Was Live with 750+ Dynamic Pages with Google AdSense)** A dedicated platform for business contact details across India, leveraging **Spring Boot, Spring JPA, Spring Security, jdbcTemplate, MySQL, Thymeleaf, HTML, CSS, JavaScript, and jQuery** for seamless page generation.  
+- 🔹 **[TheGreatAsia](https://github.com/Aarav-Mahto/TheGreatAsia)** – **(Was Live with 10+ Dynamic Pages)** A project exploring Asia's vast and diverse landscape, developed using **Spring Boot, Thymeleaf, HTML, CSS, JavaScript, jQuery, Tailwind CSS, and Bootstrap**.  
+- 🔹 **[StoryTellingSite](https://github.com/Aarav-Mahto/StoryTellingSite)** – **(Was Live with 20+ Dynamic Pages)** A dynamic platform featuring a collection of Hindi and English stories, generating web pages dynamically for an engaging reading experience, built with **Spring Boot, Spring JPA, Spring Security, Hibernate, JPQL, HQL, MySQL, Thymeleaf, HTML, CSS, JavaScript, and jQuery**.  
 
-## 📂 Some Projects With GitHub Repositories  
-- 🔹 **[TheGreatAsia](https://github.com/Aarav-Mahto/TheGreatAsia)** – A project exploring Asia's vast and diverse landscape.  
-- 🔹 **[StoryTellingSite](https://github.com/Aarav-Mahto/StoryTellingSite)** – A dynamic platform featuring a collection of Hindi and English stories, with web pages generated dynamically using Spring Boot for an engaging reading experience.  
-- 🔹 **[IndianCareHub](https://github.com/Aarav-Mahto/IndianCareHub)** – A dynamic directory of contact details for businesses across India, leveraging Spring Boot for seamless page generation.  
-- 🔹 **[EnquiryList](https://github.com/Aarav-Mahto/EnquiryList)** – A global business contact directory with dynamic page generation powered by Spring Boot.
 
 ## 🚀 WordPress Websites  
 - **[Morallines.com](https://morallines.com)** – A health and fitness blog covering workouts, healthcare, food safety, gym tips, medicine, and more, with 20+ pages of content.  
 - **[TharPrice.com](https://tharprice.com)** – Articles and posts about cars and motors, specifically focusing on Mahindra Thar models across different countries.  
 - **[AllMovieDownload.com](https://allmoviedownload.com)** – A platform featuring movie-related content, including ratings, box office collections, download links, upcoming movies, trending films, and web series.  
 
-## 🎓 College Time Projects  
+## 🎓 Some College-Time Projects (Repositories)  
 - **[Project Management System](https://github.com/Aarav-Mahto/Project-Management-System)** – A system to manage multiple projects, including sections like All Projects, Completed Projects, Running Projects, Assigned Projects, Pending Projects, and Suspended Projects. Developed during college while learning Java, JSP, Servlets, and MySQL.  
 - **[Content Management Tool](https://github.com/Aarav-Mahto/Content-Management-Tool)** – A tool to write and manage articles, featuring an admin dashboard for article CRUD operations, along with a public webpage displaying the latest articles. Built while learning Java, JSP, Servlets, and MySQL.
 
@@ -114,13 +110,13 @@ I can independently manage full-stack development or collaborate within a team. 
 <p align="left">
   <a href="https://linkedin.com/in/aarav6x" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarav6x" height="30" width="40" />
-   Linkedin</a>
+  </a>
   <a href="https://instagram.com/aarav_mahto" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aarav_mahto" height="30" width="40" />
-   Instagram</a>
+  </a>
   <a href="https://www.hackerrank.com/@aaravmahto99" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aaravmahto99" height="30" width="40" />
-   Hackerrank</a>
+  </a>
 </p>
 
 
