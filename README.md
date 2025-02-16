@@ -5,15 +5,16 @@
   <img src="https://komarev.com/ghpvc/?username=aarav-mahto&label=Profile%20views&color=0e75b6&style=flat" alt="aarav-mahto" />
 </p>
 
-- 🔭 I’m currently working on **My Personal Project**  
-- 💬 Ask me about **Spring Boot, Web Development**  
+- 💬 Ask me about **Spring Boot, Web Development**
+- 📈 Exploring **React.js** 
 
 ## 👋 About Me  
 
-I'm a **Full-Stack Developer** specializing in **Spring Boot**, experienced in building **scalable and high-performance web applications**. I have developed and deployed multiple projects with **attractive frontends, optimized backends, efficient databases, and reliable hosting (AWS/private JVM)**.  
+I'm a **Full-Stack Developer** specializing in **Spring Boot**, with experience in building **scalable, high-performance web applications**. I have designed, developed, and deployed multiple projects featuring **attractive frontends, optimized backends, efficient databases, and reliable hosting solutions (AWS/private JVM)**.  
 
-I can independently manage full-stack development or collaborate within a team. I also explore **React.js and TypeScript** to enhance my expertise in building modern web applications.  
+I have the ability to take full ownership of a project, handling everything from development to deployment, while also being comfortable collaborating within a team. To expand my skill set, I actively explore **React.js and TypeScript**, integrating modern frontend technologies to create seamless user experiences.  
 
+- **Note:** My official name on certificates is **Pappu Kumar**, but I go by **Aarav Mahto** among friends, family, and on social media.  
 
 ## 🏆 Achievements  
 
@@ -21,7 +22,7 @@ I can independently manage full-stack development or collaborate within a team. 
 - ⭐ **HackerRank** – Achieved **5-star** rating in Java.
 - 🎓 **Chegg India Expert (CSE)** – Providing solutions in Computer Science & Engineering.
 
-## 🛠 Tech Stack  
+## 🛠 Tools & Technologies I Work With  
 
 ### 🔹 Backend  
 <div align="left">
@@ -102,35 +103,36 @@ I can independently manage full-stack development or collaborate within a team. 
 - 🏅 **Hindi** – Native speaker  
 - 💬 **English** – Conversational proficiency  
 
-💡 Always exploring new technologies and improving my projects!  
-📫 Let's connect and build something awesome together.  
-- 📫 How to reach me **aarav6x@gmail.com**  
-
-## 🌎 Connect With Me  
-<p align="left">
-  <a href="https://linkedin.com/in/aarav6x" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarav6x" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/aarav_mahto" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aarav_mahto" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/@aaravmahto99" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aaravmahto99" height="30" width="40" />
-  </a>
-</p>
+## 📬 Contact Me  
+- 📧 **Email:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aarav6x@gmail.com)  
+- 🌐 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarav6x)
+- 🏆 **HackerRank:** [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@aaravmahto99)  
+- 📸 **Instagram:** [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aarav_mahto)  
 
 
 
+## 🚀 My Journey  
+
+My journey as a developer started in **October 2023**, when I built my first blogging website, **IndianCareHub.com**—a platform designed to provide contact details for businesses across India. I developed it using **Spring Boot**, ensuring scalability and dynamic content generation.  
+
+To drive traffic to my website, I dedicated the next **2–3 months** to learning and implementing **SEO strategies, website speed optimization, Core Web Vitals, link building, domain authority (DA) & page authority (PA) improvement, and social media growth**. After continuous optimization, the website gained good traction, and **Google AdSense was approved just 15 days after applying**.  
+
+However, the niche was **not as profitable** as I had hoped, so instead of discontinuing **IndianCareHub.com**, I decided to **expand its reach globally**. Around **April–May 2024**, I **cloned and rebranded** it as **EnquiryList.com**, targeting worldwide business contacts. This version had a **redesigned UI**, additional data, and improved optimization while IndianCareHub.com continued serving Indian businesses.  
+
+Next, I ventured into a different kind of project—a **storytelling platform** where users could read and explore **cartoon, historical, and fictional stories**. I built this website with a **completely unique and interactive UI**, supporting multiple languages. To handle diverse character encodings, I configured both **MySQL and the Spring Boot backend with UTF-8**. This project was hosted on **Morallines.com**, but I later repurposed the domain for a WordPress website.  
+
+As I continued developing more projects, I needed reliable hosting. I initially **experimented with AWS Free Tier**, but after just a month, I received an unexpected bill of around **₹800**, so I switched to **MochaHost**, where I hosted all my websites on a **private JVM**.  
+
+Over time, I built multiple websites and gained hands-on experience in **full-stack development, SEO, hosting management, and performance optimization**. However, as of now, **none of my websites are live, and I do not plan to host any in the future** (Except for some WordPress websites that I handed over to my friends). My focus has shifted towards **building scalable applications and contributing to impactful projects**.  
+
+## ⚡ What to Expect from Me 
+- 🔹 Develop dynamic and efficient web applications
+- 🔹 Work with Java, Spring Boot, React.js, TypeScript, and more
+- 🔹 Manage live projects and contribute to personal and client-based projects
+- 🔹 Build and maintain scalable, high-performance websites
+- 🔹 Continuously enhance my technical skills and explore new technologies
 
 ## 📊 GitHub Stats  
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarav-mahto&show_icons=true&locale=en&layout=compact" alt="aarav-mahto" />
 </p>
-
-## 🚀 What I Do:
-- Develop dynamic and efficient web applications
-- Work with Java, Spring Boot, React.js, TypeScript, and more
-- Manage live projects and contribute to personal and client-based projects
-- Build and maintain scalable, high-performance websites
-- Continuously enhance my technical skills and explore new technologies
- 
