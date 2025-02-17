@@ -97,7 +97,7 @@ I focus on creating solutions that not only work but also provide a great experi
 - 🔹 **[StoryTellingSite](https://github.com/Aarav-Mahto/StoryTellingSite)** – **(Was Live with 20+ Dynamic Pages)** A dynamic platform featuring a collection of Hindi and English stories, generating web pages dynamically for an engaging reading experience, built with **Spring Boot, Spring JPA, Spring Security, Hibernate, JPQL, HQL, MySQL, Thymeleaf, HTML, CSS, JavaScript, and jQuery**.  
 
 
-## 🚀 WordPress Websites  
+## 🚀 WordPress Websites (Live)
 - **[Morallines.com](https://morallines.com)** – A health and fitness blog covering workouts, healthcare, food safety, gym tips, medicine, and more, with 20+ pages of content.  
 - **[TharPrice.com](https://tharprice.com)** – Articles and posts about cars and motors, specifically focusing on Mahindra Thar models across different countries.  
 - **[AllMovieDownload.com](https://allmoviedownload.com)** – A platform featuring movie-related content, including ratings, box office collections, download links, upcoming movies, trending films, and web series.  
