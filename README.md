@@ -10,11 +10,19 @@
 
 ## 👋 About Me  
 
-I'm a **Full-Stack Developer** specializing in **Spring Boot**, with experience in building **scalable, high-performance web applications**. I have designed, developed, and deployed multiple projects featuring **attractive frontends, optimized backends, efficient databases, and reliable hosting solutions (AWS/private JVM)**.  
+### Full-Stack Developer
 
-I have the ability to take full ownership of a project, handling everything from development to deployment, while also being comfortable collaborating within a team. To expand my skill set, I actively explore **React.js and TypeScript**, integrating modern frontend technologies to create seamless user experiences.  
+Hi there, I'm a **Full-Stack Developer** with a passion for building **scalable web applications**. I specialize in **Spring Boot** and **React.js**.
 
-- **Note:** My official name on certificates is **Pappu Kumar**, but I go by **Aarav Mahto** among friends, family, and on social media.  
+### What I Do:
+- Build **user-friendly interfaces** that make apps intuitive and enjoyable to use.
+- Develop **clean, efficient backends** and design **smooth-running databases** for seamless performance.
+- Handle all stages of a project, from **design and development to deployment**.
+- Work well in teams, collaborating to create high-quality solutions.
+
+I focus on creating solutions that not only work but also provide a great experience for users, integrating both front-end and back-end technologies to deliver seamless results.
+
+- **Note:** My legal name is **Pappu Kumar**, but I go by **Aarav Mahto** among friends, family, and on social media.  
 
 ## 🏆 Achievements  
 
@@ -70,9 +78,9 @@ I have the ability to take full ownership of a project, handling everything from
 
 ### 🎓 Master of Computer Application (MCA)  
 📍 **Harcourt Butler Technical University, Kanpur (HBTU)** | **2024** | **CGPA: 7.24**  
-- Focused on **Java, Web Development, Databases, and Software Engineering**.  
-- Initially built web projects using **JSP, Servlets, JDBC, and MySQL**.  
-- Later transitioned to **Spring Boot**, developing multiple full-stack web applications.  
+- Focused on **Java, Web Development, Databases, and Software Engineering**.
+- Initially worked with **JSP, Servlets, JDBC, and MySQL** for web projects.
+- **Now** specialized in **Spring Boot**, building dynamic and scalable full-stack web applications using tools like **Thymeleaf, JPA, Hibernate, RESTful APIs, Spring Security, React Js**
 
 ### 🎓 Bachelor of Computer Application (BCA)  
 📍 **TNB College, TMBU Bhagalpur University** | **Percentage: 70.33%**  
@@ -111,7 +119,7 @@ I have the ability to take full ownership of a project, handling everything from
 
 
 
-## 🚀 My Journey  
+## 🌟 My Journey as a Developer
 
 My journey as a developer started in **October 2023**, when I built my first blogging website, **IndianCareHub.com**—a platform designed to provide contact details for businesses across India. I developed it using **Spring Boot**, ensuring scalability and dynamic content generation.  
 
