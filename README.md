@@ -6,7 +6,8 @@
 </p>
 
 - 💬 Ask me about **Spring Boot, Web Development**
-- 📈 Exploring **React.js** 
+- 📈 Exploring **React.js**
+- **Note:** My official name (as on documents) is **Pappu Kumar**, but I commonly go by **Aarav Mahto**.
 
 ## 👋 About Me  
 
@@ -22,13 +23,13 @@ Hi there, I'm a **Full-Stack Developer** with a passion for building **scalable 
 
 I focus on creating solutions that not only work but also provide a great experience for users, integrating both front-end and back-end technologies to deliver seamless results.
 
-- **Note:** My legal name is **Pappu Kumar**, but I go by **Aarav Mahto** among friends, family, and on social media.  
+ 
 
 ## 🏆 Achievements  
 
 - 🎯 **NIMCET 2022** – Secured **AIR 752** in the national-level MCA entrance exam.    
 - ⭐ **HackerRank** – Achieved **5-star** rating in Java.
-- 🎓 **Chegg India Expert (CSE)** – Providing solutions in Computer Science & Engineering.
+- 🎓 **Chegg India Expert (CSE)** – Used to provide solutions in Computer Science & Engineering.
 
 ## 🛠 Tools & Technologies I Work With  
 
@@ -91,10 +92,10 @@ I focus on creating solutions that not only work but also provide a great experi
 ## 🌐 Projects & GitHub Repositories - **(Currently Not Live)**  
 ### These are some projects I used to maintain, but due to the hosting expiration of my private JVM (MochaHost) on **16 Feb 2025**, I couldn't renew them.  
 
-- 🔹 **[EnquiryList](https://github.com/Aarav-Mahto/EnquiryList)** – **(Was Live with 150+ Dynamic Pages)** A well-organized directory of global business contact details and social media informations with dynamic page generation, powered by **Spring Boot, Spring JPA, Spring Security, jdbcTemplate, MySQL, Thymeleaf, HTML, CSS, JavaScript, and jQuery**.  
-- 🔹 **[IndianCareHub](https://github.com/Aarav-Mahto/IndianCareHub)** – **(Was Live with 750+ Dynamic Pages with Google AdSense)** A dedicated platform for business contact & Social details across India, leveraging **Spring Boot, Spring JPA, Spring Security, jdbcTemplate, MySQL, Thymeleaf, HTML, CSS, JavaScript, and jQuery** for seamless page generation.  
+- 🔹 **[EnquiryList](https://github.com/Aarav-Mahto/EnquiryList)** – **(Was Live with 150+ Dynamic Pages)** A well-organized directory of global business contact details and social media informations with dynamic page generation, powered by **Spring Boot, Spring JPA, Spring Security, jdbcTemplate, MySQL, Thymeleaf, HTML, CSS, JavaScript, and jQuery**. To manage this information, it includes an admin dashboard for adding, updating, and deleting entries, as well as database management.
+- 🔹 **[IndianCareHub](https://github.com/Aarav-Mahto/IndianCareHub)** – **(Was Live with 750+ Dynamic Pages with Google AdSense)** A dedicated platform for business contact & Social details across India, leveraging **Spring Boot, Spring JPA, Spring Security, jdbcTemplate, MySQL, Thymeleaf, HTML, CSS, JavaScript, and jQuery** for seamless page generation. It features an admin dashboard to manage entries, update data, and handle database operations. 
 - 🔹 **[TheGreatAsia](https://github.com/Aarav-Mahto/TheGreatAsia)** – **(Was Live with 10+ Dynamic Pages)** A project exploring Asia's vast and diverse landscape, developed using **Spring Boot, Thymeleaf, HTML, CSS, JavaScript, jQuery, Tailwind CSS, and Bootstrap**.  
-- 🔹 **[StoryTellingSite](https://github.com/Aarav-Mahto/StoryTellingSite)** – **(Was Live with 20+ Dynamic Pages)** A dynamic platform featuring a collection of Hindi and English stories, generating web pages dynamically for an engaging reading experience, built with **Spring Boot, Spring JPA, Spring Security, Hibernate, JPQL, HQL, MySQL, Thymeleaf, HTML, CSS, JavaScript, and jQuery**.  
+- 🔹 **[StoryTellingSite](https://github.com/Aarav-Mahto/StoryTellingSite)** – **(Was Live with 20+ Dynamic Pages)** A dynamic platform featuring a collection of Hindi and English stories, generating web pages dynamically for an engaging reading experience, built with **Spring Boot, Spring JPA, Spring Security, Hibernate, JPQL, HQL, MySQL, Thymeleaf, HTML, CSS, JavaScript, and jQuery**. An admin dashboard is included to add, edit, delete, and manage stories efficiently.
 
 
 ## 🚀 WordPress Websites (Live)
@@ -119,7 +120,7 @@ I focus on creating solutions that not only work but also provide a great experi
 
 
 
-## 🌟 My Journey as a Developer
+## 🌟 My Journey as a Developer (In Brief)
 
 My journey as a developer started in **October 2023**, when I built my first blogging website, **IndianCareHub.com**—a platform designed to provide contact details for businesses across India. I developed it using **Spring Boot**, ensuring scalability and dynamic content generation.  
 
