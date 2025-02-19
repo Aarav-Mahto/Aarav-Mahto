@@ -107,6 +107,34 @@ I focus on creating solutions that not only work but also provide a great experi
 - **[Project Management System](https://github.com/Aarav-Mahto/Project-Management-System)** – A system to manage multiple projects, including sections like All Projects, Completed Projects, Running Projects, Assigned Projects, Pending Projects, and Suspended Projects. Developed during college while learning Java, JSP, Servlets, and MySQL.  
 - **[Content Management Tool](https://github.com/Aarav-Mahto/Content-Management-Tool)** – A tool to write and manage articles, featuring an admin dashboard for article CRUD operations, along with a public webpage displaying the latest articles. Built while learning Java, JSP, Servlets, and MySQL.
 
+## Internships
+
+### By Bharat Intern - 2023 
+#### Full Stack Web Development
+- Content Management Tool [GitHub](https://github.com/Aarav-Mahto/Content-Management-System)
+- Project Management Tool [GitHubl](https://github.com/Aarav-Mahto/Project-Management-System)
+
+#### Web Development
+- Temperature Converter Web Application [GitHub](https://github.com/Aarav-Mahto/Tempreture-Converter)
+- Netflix Entertainment Clone Webpage [GitHub](https://github.com/Aarav-Mahto/NetflixHomepageClone)
+
+### By Suven Consultants & Technology Pvt Ltd. - 2023
+#### Problem Solving Virtual Internship
+- 6-week problem-solving virtual internship on Java - Data Structures
+
+## Certifications
+
+  - [![Full_Stack_Web_Development_By_BharatIntern](https://img.shields.io/badge/Full_Stack_Web_Development_By_BharatIntern-007BFF?style=for-the-badge&logo=react&logoColor=white)](https://drive.google.com/file/d/15S-JW03XEbqnsS5U4c_fuca9vCbGUhG9/view?usp=sharing)
+  - [![Web_Deveopment_By_BharatIntern](https://img.shields.io/badge/Web_Deveopment_By_BharatIntern-007BFF?style=for-the-badge&logo=html5&logoColor=white)](https://drive.google.com/file/d/1-Cnkik5GdbvpasenZl8RU3M-6LYb3CIP/view?usp=sharing)
+  - [![Problem_Solving_Online_Internship_With_Java_From_Suven_Consultancy](https://img.shields.io/badge/Problem_Solving_Online_Internship_With_Java_From_Suven_Consultancy-007BFF?style=for-the-badge&logo=java&logoColor=white)](https://drive.google.com/file/d/1fCmBAQDuxSMpiEX6zMAtDqpAMHLauhyy/view?usp=sharing)
+  - [![Java_Course_Completion_(from_N.S.D.L.)](https://img.shields.io/badge/Java_Course_Completion_(from_N.S.D.L.)-007BFF?style=for-the-badge&logo=openjdk&logoColor=white)](https://drive.google.com/file/d/1QvJQDt3lzvUuBhKz419j3K42zM0eoBeh/view?usp=sharing)
+  - [![Java_from_HackerRank](https://img.shields.io/badge/Java_from_HackerRank-2EC866?style=for-the-badge&logo=java&logoColor=white)](https://drive.google.com/file/d/1P4AKLfAEZ8VaeH9TV5212Yu2S8d496Fo/view?usp=sharing)
+  - [![SQL_From_HackerRank](https://img.shields.io/badge/SQL_From_HackerRank-2EC866?style=for-the-badge&logo=postgresql&logoColor=white)](https://drive.google.com/file/d/1EY1VsvrhGg1c3rKuV-U9TSO03qP85NuH/view?usp=sharing)
+  - [![CSS_From_HackerRank](https://img.shields.io/badge/CSS_From_HackerRank-2EC866?style=for-the-badge&logo=css3&logoColor=white)]([https://example.com/certificate-css](https://drive.google.com/file/d/1SzhE0bvqDfBkIzr7EyUAtBT5l5fN2DHx/view?usp=sharing))
+
+  - [![C_Language_Course_Completion_By_TDA](https://img.shields.io/badge/C_Language_Course_Completion_By_TDA-007BFF?style=for-the-badge&logo=c&logoColor=white)](https://drive.google.com/file/d/1Ge9Bao7ZOP5jWuygPqGCRjI76h7uHIkk/view?usp=sharing)
+
+  
 ## 🌍 Languages  
 
 - 🏅 **Hindi** – Native speaker  
