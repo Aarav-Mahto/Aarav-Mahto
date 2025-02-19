@@ -16,14 +16,11 @@
 Hi there, I'm a **Full-Stack Developer** with a passion for building **scalable web applications**. I specialize in **Spring Boot** and **React.js**.
 
 ### What I Do:
-- Build **user-friendly interfaces** that make apps intuitive and enjoyable to use.
+- Build **user-friendly interfaces**.
 - Develop **clean, efficient backends** and design **smooth-running databases** for seamless performance.
 - Handle all stages of a project, from **design and development to deployment**.
-- Work well in teams, collaborating to create high-quality solutions.
+- Work well in teams.
 
-I focus on creating solutions that not only work but also provide a great experience for users, integrating both front-end and back-end technologies to deliver seamless results.
-
- 
 
 ## 🏆 Achievements  
 
