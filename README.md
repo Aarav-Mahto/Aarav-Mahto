@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pappu Kumar</h1>
+<h1 align="center">Hi 👋, I'm Aarav Mahto</h1>
 <h3 align="center">A Full Stack Developer & Eye-Catching Web Designer</h3>
 
 <p align="left">
