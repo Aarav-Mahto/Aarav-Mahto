@@ -159,7 +159,6 @@ As I continued developing more projects, I needed reliable hosting. I initially 
 
 Over time, I built multiple websites and gained hands-on experience in **full-stack development, SEO, hosting management, and performance optimization**. However, as of now, **none of my websites are live, and I do not plan to host any in the future** (Except for some WordPress websites that I handed over to my friends). My focus has shifted towards **building scalable applications and contributing to impactful projects**.  
 
-## 📊 GitHub Stats  
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarav-mahto&show_icons=true&locale=en&layout=compact" alt="aarav-mahto" />
-</p>
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aarav-Mahto&layout=compact&count_private=true)
